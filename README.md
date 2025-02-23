@@ -5,4 +5,4 @@ https://github.com/a-gondolkodas-orome/durer-pdf-generator
 
 https://github.com/fraknoiadam/gemma-playing
 
-https://kivetito.durerinfo.hu/
+https://github.com/fraknoiadam/minimalist-timer-react
